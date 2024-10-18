@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProyectoDeComandero</string>
+    <string name="camarero">Camarero</string>
+    <string name="gerente">Gerente</string>
+    <string name="date_time">%1$s/%2$s/%3$s - %4$s:%5$s</string>
+    <string name="gerencia">Gerencia</string>
+    <string name="sumar_stock">Sumar Stock</string>
+    <string name="numero">Stock</string>
+    <string name="stock_a_sumar">Stock a sumar:</string>
+    <string name="stock_actual">Stock Actual:</string>
+    <string name="producto">Producto:</string>
+    <string name="sumar">Sumar</string>
+    <string name="back">Volver</string>
+    <string name="nombre_producto">Nombre Producto:</string>
+    <string name="stock_actual1">Stock Actual:</string>
+    <string name="stock_m_nimo">Stock Mínimo:</string>
+    <string name="precio">Precio:</string>
+    <string name="agregar_producto">Agregar Producto</string>
+    <string name="env_o_falta_de_stock">Envío Falta de Stock:</string>
+    <string name="telefono">Telefono</string>
+    <string name="modificar">Modificar</string>
+    <string name="guardar">Guardar</string>
+    <string name="telefono_actual">Telefono actual:</string>
+    <string name="introduzca_el_numero_de_telefono">Introduzca el nuevo numero de telefono:</string>
+    <string name="telefono_modificado">Telefono modificado</string>
+    <string name="comanda">Comanda</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="cantidad_text">Cantidad:</string>
+    <string name="total_cuenta">Total Cuenta:</string>
+    <string name="cuentatext">Total</string>
+    <string name="agregar_producto_comanda">Agregar Producto</string>
+    <string name="productocomanda">Producto</string>
+    <string name="mesa">Mesa</string>
+    <string-array name="mesas">
+        <item>Mesa 1</item>
+        <item>Mesa 2</item>
+        <item>Mesa 3</item>
+        <item>Mesa 4</item>
+        <item>Mesa 5</item>
+    </string-array>
+</resources>
